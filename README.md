@@ -52,11 +52,11 @@ This repository contains the final year engineering project titled *"Simulation 
 - 🎯 High-Frequency Antenna Design
 
 ## 📂 Repository Structure
-├── Design_Files/ # HFSS design files (.hfss)
-├── Simulation_Results/ # Screenshots, graphs, and plots
-├── Documentation/ # Final report and PPT
-├── Demo_Video/ # HFSS simulation walkthrough (optional)
-└── README.md # Project description
+├── DesignFile
+├── SimulationResults
+├── Documentation
+├── DemoVideo
+└── README.md
 
 
 ## 🎓 Academic Information
