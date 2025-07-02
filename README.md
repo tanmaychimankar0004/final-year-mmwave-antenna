@@ -68,8 +68,8 @@ This repository contains the final year engineering project titled "Simulation a
 
 ## 📽 Demo
 
-If available, a video demo of the simulation is included in the Demo_Video/ folder.  
-You can also find a short clip on [LinkedIn](#) or YouTube (link to be added).
+A video demo of the simulation is included in the Demo_Video/ folder.  
+You can also find a short clip on [LinkedIn].
 
 ## 📧 Contact
 
@@ -89,7 +89,7 @@ For more details or questions, feel free to reach out:
 
 ## 🙌 Acknowledgements
 
-We would like to thank our guide and faculty members for their constant support and guidance throughout the project.
+I would like to thank our guide (Prof. Anupama Chaursia) and faculty members for their constant support and guidance throughout the project.
 
 ## 📄 License
 
