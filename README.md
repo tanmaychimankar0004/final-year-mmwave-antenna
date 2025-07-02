@@ -22,7 +22,7 @@ This project focuses on the design, simulation, and performance evaluation of a 
 ## 📂 Repository Structure
 # 🛰 Simulation and Analysis of Antenna Used for AR/VR Applications
 
-This repository contains the final year engineering project titled *"Simulation and Analysis of Antenna Used for AR/VR Applications". The project involves the design, simulation, and analysis of a **slotted square microstrip patch antenna* intended for *millimeter-wave (mmWave)* operation at *26 GHz, suitable for applications in **Augmented Reality (AR)* and *Virtual Reality (VR)*.
+This repository contains the final year engineering project titled "Simulation and Analysis of Antenna Used for AR/VR Applications". The project involves the design, simulation, and analysis of a slotted square microstrip patch antenna intended for millimeter-wave (mmWave) operation at 26 GHz, suitable for applications in Augmented Reality (AR) and Virtual Reality (VR).
 
 ## 📌 Project Objectives
 
@@ -33,9 +33,9 @@ This repository contains the final year engineering project titled *"Simulation 
 
 ## 🛠 Tools & Technologies Used
 
-- *Ansys HFSS* – for electromagnetic simulation and 3D modeling.
-- *MATLAB* (optional) – for signal processing and plotting (if used).
-- *Microsoft Word / LaTeX* – for documentation and report writing.
+- Ansys HFSS – for electromagnetic simulation and 3D modeling.
+- MATLAB (optional) – for signal processing and plotting (if used).
+- Microsoft Word / LaTeX – for documentation and report writing.
 
 ## 📊 Key Parameters Analyzed
 
@@ -61,10 +61,10 @@ This repository contains the final year engineering project titled *"Simulation 
 
 ## 🎓 Academic Information
 
-- *Degree:* B.E. in Electronics and Telecommunication (EXTC)  
-- *University:* University of Mumbai  
-- *Project Type:* Final Year Major Project  
-- *Year:* 2025  
+- Degree: B.E. in Electronics and Telecommunication (EXTC)  
+- University: University of Mumbai  
+- Project Type: Final Year Major Project  
+- Year: 2025  
 
 ## 📽 Demo
 
